@@ -1,8 +1,0 @@
-shreya, 8275435566, shreya@gmail.com, candy, 10, 10, Sat Jun 10 16:43:08 2023
-shruti, 9156072906, shruti@xyz.com, 5 star, 4, 20, Sat Jun 10 17:00:18 2023
-anushka, 123456789, anushh@gmail.com, candy, 1, 1, Sat Jun 10 17:01:17 2023
-neha, 7753213490, nehahadkar@xyz, milky bar, 2, 10, Sat Jun 10 17:01:57 2023
-tejas, 9307196079, tk8686@gmail.com, cake, 4, 1200, Sat Jun 10 17:16:19 2023
-ishwari, 9422072906, ish, cake, 5, 1500, Sun Jun 11 20:47:15 2023
-sameer, 9422434615, sam, cake, 5, 1500, Sun Jun 11 20:47:57 2023
-sanika, 765432198, sarare@xyz.com, cake, 6, 1800, Sun Jun 11 20:50:59 2023
